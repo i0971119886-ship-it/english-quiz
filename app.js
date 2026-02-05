@@ -6,6 +6,55 @@ let sessionCorrect = 0;
 let sessionWrongList = [];
 let isAnswering = false; 
 
+// ===== 0. 從 GitHub 讀取外部單字檔 =====
+async function loadExternalWords() {
+    try {
+        // 這裡會抓取同一個資料夾下的 words.txt
+        const response = await fetch('words.txt');
+        const text = await response.text();
+        
+        // 將文字解析成物件陣列
+        const parsedWords = text.trim().split('\n').map(line => {
+            const [year, en, zh] = line.split('/');
+            return (year && en && zh) ? { 
+                year: year.trim(), 
+                en: en.trim(), 
+                zh: zh.trim(), 
+                wrongCount: 0 
+            } : null;
+        }).filter(v => v);
+
+        if (parsedWords.length > 0) {
+            // 抓取成功後，存入 localStorage 並刷新頁面單字
+            saveWords(parsedWords);
+            console.log("單字庫已從 words.txt 更新！");
+            return parsedWords;
+        }
+    } catch (error) {
+        console.error("讀取 words.txt 失敗:", error);
+    }
+    return [];
+}
+
+// ===== 2. 修改後的資料啟動邏輯 =====
+function getWords() {
+    const data = localStorage.getItem("customVocab");
+    return data ? JSON.parse(data) : [];
+}
+
+// 頁面載入時檢查是否需要從 txt 更新
+window.addEventListener('DOMContentLoaded', async () => {
+    // 如果目前沒單字，或是你想強迫每次重新整理都抓新的 words.txt
+    // 這裡我們設定為：如果 localStorage 沒資料，就去抓 txt
+    if (getWords().length === 0) {
+        await loadExternalWords();
+        // 抓完後如果人在單字頁，就重新渲染
+        if (!document.getElementById('vocab').classList.contains('hidden')) {
+            renderVocab();
+        }
+    }
+});
+
 // ===== 1. 核心頁面切換功能 =====
 function showPage(id) {
     const pages = document.querySelectorAll(".page");
@@ -378,4 +427,5 @@ function renderHistory() {
 }
 
 // 初始化歷史紀錄渲染
+
 window.onload = renderHistory;
