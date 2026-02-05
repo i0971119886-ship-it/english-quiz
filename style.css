@@ -1,3 +1,26 @@
+/* 1. 移除所有按鈕與輸入框點擊時的藍框 */
+button:focus, 
+input:focus, 
+select:focus, 
+textarea:focus,
+label:focus {
+    outline: none !important; /* 徹底去掉深藍色框 */
+    box-shadow: none !important; /* 有些瀏覽器會用陰影代替，一併去掉 */
+}
+
+/* 2. 針對手機瀏覽器點擊時出現的灰色/藍色半透明遮罩 */
+* {
+    -webkit-tap-highlight-color: transparent; /* 去除 iOS/Android 點擊時的半透明底色 */
+}
+
+/* 3. 如果你還是希望「選中的年份」有視覺回饋，我們用底色改變來代替藍框 */
+#year-checkboxes label:has(input:checked) {
+    background: #3f51b5;
+    color: white;
+    border-color: #3f51b5;
+    /* 這裡可以加一點點陰影，比藍色邊框更自然 */
+    box-shadow: 0 2px 8px rgba(63, 81, 181, 0.3); 
+}
 /* ===== 基礎設定 ===== */
 * {
     box-sizing: border-box;
@@ -238,3 +261,4 @@ input:disabled {
         font-size: 13px;
     }
 }
+
