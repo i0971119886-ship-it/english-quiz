@@ -43,12 +43,16 @@ function getWords() {
 }
 
 // 頁面載入時檢查是否需要從 txt 更新
+// 修改這一段邏輯，讓它每次開啟都先檢查伺服器
 window.addEventListener('DOMContentLoaded', async () => {
-    // 如果目前沒單字，或是你想強迫每次重新整理都抓新的 words.txt
-    // 這裡我們設定為：如果 localStorage 沒資料，就去抓 txt
-    if (getWords().length === 0) {
-        await loadExternalWords();
-        // 抓完後如果人在單字頁，就重新渲染
+    // 每次開啟網頁都重新抓取 words.txt 以確保同步
+    const newWords = await loadExternalWords();
+    
+    if (newWords && newWords.length > 0) {
+        saveWords(newWords); // 覆蓋舊有的 LocalStorage 紀錄
+        console.log("單字庫已從 words.txt 成功同步！");
+        
+        // 如果目前正在單字總覽頁，強制更新畫面
         if (!document.getElementById('vocab').classList.contains('hidden')) {
             renderVocab();
         }
@@ -429,3 +433,4 @@ function renderHistory() {
 // 初始化歷史紀錄渲染
 
 window.onload = renderHistory;
+
