@@ -1,0 +1,195 @@
+114/chalk/粉筆
+114/draw/畫 拉 吸引
+114/heat/加熱；熱
+114/mail/寄送；郵件
+114/type/打字
+114/space/空間
+114/available/可用的 有空的
+114/crowded/擁擠的
+114/empty/空的
+114/positive/正向的
+114/main/主要的
+114/base/基地 壘
+114/peak/山峰
+114/shore/海岸
+114/valley/山谷
+114/cattle/牛群
+114/jewelry/珠寶
+114/jewel/珠寶
+114/portrait/肖像畫
+114/portray/描繪
+114/whistle/哨子
+114/risky/有風險的
+114/fashionable/時尚的
+114/jealous/忌妒的
+114/poisonous/有毒的
+114/reasonable/合理的
+114/punish/處罰
+114/authority/權力 當局
+114/bargain/特價品；討價還價
+114/courtesy/禮貌
+114/infection/感染
+114/sensor/感測器
+114/automatically/自動地
+114/organically/有機地
+114/productively/有生產力地
+114/productive/有生產力的
+114/product/產品
+114/production/生產
+114/produce/產生／農產品
+114/selfishly/自私地
+114/magnificent/傑出的
+114/performance/表現
+114/actively/積極地
+114/entirely/完全地
+114/internally/內在地
+114/obviously/明顯地
+114/plastic/塑膠(的)
+114/straight/直接地
+114/fresh/新鮮的
+114/impression/印象
+114/suit/套裝 西裝
+114/formal/正式的
+114/professional/專業的
+114/medal/獎牌
+114/incredible/難以置信的
+114/impressive/令人印象深刻的
+114/badminton/羽毛球
+114/motivate/激勵
+114/scarf/圍巾
+114/silk/絲
+114/passionate/熱愛的
+114/major/主修；主要的
+114/sculpture/雕塑
+114/outcome/結果
+114/gallery/畫廊
+114/invent/發明
+114/award/獎項
+114/competition/競賽
+114/compete/競爭
+114/competitor/競爭者
+114/competitive/競爭的
+114/skill/技能
+114/category/類別
+114/robotics/機器人技術
+114/carpentry/木工
+114/refrigeration/冷凍
+114/cabinet/櫥櫃
+114/respectively/分別地
+114/dedicate/奉獻 投入
+114/encourage/鼓勵
+114/kindergarten/幼稚園
+114/emphasize/強調
+114/emphasis/強調
+114/direct/直接的
+114/demonstrate/展現
+114/talent/才能
+114/constant/持續的
+114/cigarette/香菸
+114/advertise/宣傳 登廣告
+114/advertisement/廣告
+114/regular/一般的 有規律的
+114/flavor/口味
+114/harmless/無害的
+114/contain/包含
+114/addiction/成癮
+114/teaspoonful/一茶匙
+114/liquid/液體(的)
+114/double/加一倍 兩倍的
+114/survey/調查
+114/trend/趨勢
+114/ease/輕易；減緩
+114/deliver/運送
+114/remind/提醒
+114/policy/政策
+114/recommend/推薦 建議
+114/fine/罰款
+114/outstanding/傑出的
+114/chemist/化學家
+114/vitamin/維他命
+114/mathematician/數學家
+114/mathematics/數學
+114/pioneer/先驅
+114/atomic/原子的
+114/astronomer/天文學家
+114/comet/彗星
+114/vote/投票
+114/nuclear/核能的
+114/physicist/物理學家
+114/poster/海報
+114/data/資料 數據
+114/table/表格
+114/unlimited/無限的
+114/discount/打折
+114/hit/襲擊
+114/intensity/強度
+114/intense/強烈的
+114/intensive/集中的
+114/moderate/適度的
+114/chart/圖表
+114/process/處理；過程
+114/innovation/創新
+114/efficiency/效能
+114/efficient/有效率的
+114/advanced/進階的
+114/impact/影響
+114/field/領域 田野
+114/pandemic/疫情
+114/isolate/隔離
+114/identify/辨認
+114/analyze/分析
+114/contribute/促成
+114/cure/治療
+114/predict/預測
+114/climate/氣候
+114/benefit/受益；好處
+114/select/選擇
+114/selection/選擇
+114/enhance/增進
+114/livestock/牲畜
+114/improve/改善
+114/accuracy/準確度
+114/accurate/正確的
+114/biotechnology/生物科技
+114/pharmaceutical/製藥的
+114/pharmacy/藥局
+114/population/人口
+114/function/功能
+114/supply/提供
+114/orchid/蘭花
+114/export/出口
+114/variety/品種 多樣化
+114/industry/產業 工業
+114/emerge/出現 浮現
+114/flourish/蓬勃發展
+114/greenhouse/溫室
+114/tenfold/十倍
+114/position/地位 職位
+114/seed/種子
+114/seedling/幼苗
+114/diversity/多樣性
+114/native/土生土長的
+114/commercial/商業的
+114/mix/混合
+114/species/物種
+114/concentration/集中 專注
+114/achievement/成就
+114/recognition/認可
+114/host/舉辦
+114/conference/會議
+114/conservation/保育
+114/conserve/保育 節約
+114/preservation/保存
+114/preserve/保存 醃製
+114/ecological/生態的
+114/ecology/生態學
+114/ecosystem/生態系統
+114/economic/經濟的
+114/economy/經濟
+114/replant/重新種植
+114/concert/演唱會
+114/symbolize/象徵
+114/solid/堅固的 固體的
+114/unknown/不明的
+114/confirm/確認
+114/confirmation/確認
