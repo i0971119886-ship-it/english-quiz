@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>英文單字測驗系統</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>歷屆統測英文單字複習系統</h1>
+</header>
+
+<nav>
+  <button type="button" onclick="showPage('quiz-home')">📝 測驗</button>
+  <button type="button" onclick="showPage('record')">📊 紀錄</button>
+  <button type="button" onclick="renderVocabPage()">📚 單字</button>
+  <button type="button" onclick="showPage('dev-login')">🛠 開發者</button>
+</nav>
+
+<main>
+  <section id="quiz-home" class="page">
+    <div class="card" style="text-align: center; padding: 40px 20px;">
+      <h2> 選擇測驗題型</h2>
+      <button onclick="selectQuizType('en-zh')" style="height: 80px; font-size: 1.2rem; margin-bottom: 20px;">英選中 (English ➔ 中文)</button>
+      <button onclick="selectQuizType('zh-en')" style="height: 80px; font-size: 1.2rem;">中選英 (中文 ➔ English)</button>
+    </div>
+  </section>
+
+  <section id="quiz-config" class="page hidden">
+  <div class="card">
+    <h3 id="config-title">測驗設定</h3>
+    
+    <div style="margin-bottom: 15px;">
+      <label><b>1. 選擇內容（年度複選）：</b></label>
+      <div id="year-checkboxes" style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; max-height: 150px; overflow-y: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px; background: #fff;"></div>
+      <div style="display: flex; gap: 5px;">
+        <button type="button" class="secondary" onclick="toggleAllYears(true)" style="font-size: 12px; padding: 5px;">全選</button>
+        <button type="button" class="secondary" onclick="toggleAllYears(false)" style="font-size: 12px; padding: 5px;">取消全選</button>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+      <label><b>2. 過濾模式：</b></label>
+      <select id="filter-mode" onchange="updateQuizCountHint()">
+        <option value="all">全部單字</option>
+        <option value="high-wrong">高錯率單字 (有錯誤紀錄者)</option>
+      </select>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+      <label><b>3. 題數模式：</b></label>
+      <select id="count-mode" onchange="updateQuizCountHint()">
+        <option value="auto">測驗該範圍全部單字</option>
+        <option value="manual">自行輸入題數</option>
+      </select>
+    </div>
+
+    <div style="margin-bottom: 20px;">
+      <label><b>4. 指定題數：</b></label>
+      <input id="quiz-count-input" type="number" value="10" min="1" oninput="validateCount()">
+      <p id="count-hint" style="font-size: 0.8rem; color: #666; margin-top: 4px;"></p>
+    </div>
+
+    <button onclick="confirmStartQuiz()" style="background: #4caf50;">確認開始</button>
+    <button class="secondary" onclick="showPage('quiz-home')">返回</button>
+  </div>
+</section>
+
+  <section id="quiz-running" class="page hidden">
+    <div class="card">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+        <span id="q-progress" style="font-weight: bold; color: #3f51b5;">第 1 / 10 題</span>
+        <button onclick="finishQuiz()" style="width: auto; margin: 0; padding: 5px 15px; background: #f44336; font-size: 0.8rem;">結束測驗</button>
+      </div>
+      <div id="q-area">
+        </div>
+    </div>
+  </section>
+
+  <section id="quiz-finish" class="page hidden">
+    <div class="card" style="text-align: center;">
+      <h2 id="final-score-text" style="font-size: 3rem; color: #3f51b5; margin: 10px 0;">0%</h2>
+      <p id="final-detail-text">對了 0 題 / 共 0 題</p>
+      <div id="final-wrong-list" style="text-align: left; max-height: 200px; overflow-y: auto; background: #fff5f5; padding: 10px; border-radius: 8px; margin: 15px 0; font-size: 0.9rem; color: #d32f2f;"></div>
+      
+      <button id="retry-btn" onclick="startRetry()" style="background: #ff9800; display: none;">錯誤重測</button>
+      <button onclick="showPage('quiz-home')">結束離開</button>
+    </div>
+  </section>
+
+  <section id="record" class="page hidden">
+    <h2>📊 作答紀錄</h2>
+    <div id="record-area" class="card">目前尚無紀錄</div>
+  </section>
+
+  <section id="vocab" class="page hidden">
+    <h2>📚 單字總覽</h2>
+    <div class="card" style="margin-bottom: 15px;">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <label for="sort-select" style="font-size: 14px; font-weight: bold; white-space: nowrap;">排序：</label>
+        <select id="sort-select" onchange="renderVocab()" style="flex: 1; padding: 8px; border-radius: 6px; border: 1px solid #ddd; background: white;">
+          <option value="year-desc">年度 (新 → 舊)</option>
+          <option value="year-asc">年度 (舊 → 新)</option>
+          <option value="az">字母 (A → Z)</option>
+          <option value="za">字母 (Z → A)</option>
+          <option value="wrong">錯誤率 (高 → 低)</option>
+        </select>
+      </div>
+    </div>
+    <div id="vocab-area"></div>
+  </section>
+
+  <section id="dev-login" class="page hidden">
+    <h2>🛠 開發者模式</h2>
+    <div class="card">
+      <p>請輸入管理員密碼：</p>
+      <input id="dev-pass" type="password">
+      <button onclick="checkDev()">登入</button>
+    </div>
+  </section>
+
+  <section id="dev-panel" class="page hidden">
+    <h2>🛠 開發者後台</h2>
+    <div class="dev-menu" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+      <button onclick="renderAddWord()">➕ 寫入單字</button>
+      <button onclick="renderManageWord()">⚙️ 管理單字</button>
+    </div>
+    <hr>
+    <div id="dev-content"></div>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
