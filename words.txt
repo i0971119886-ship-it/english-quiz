@@ -418,4 +418,249 @@
 113/problem/問題 習題
 113/expert/專家
 113/humid/潮濕的
+112/cable/電纜
+112/shock/震驚；(觸)電擊；休克
+112/tube/管子；軟管
+112/zone/地區；地帶
+112/break/打破；破裂；休息
+112/raise money/募款
+112/fight/打架；對抗；爭取
+112/hold/舉行；舉辦；拿住
+112/spell/拼字；拼寫；咒語
+112/altogether/總共；完全
+112/complete/完成；完整的
+112/chapter/章節
+112/basic/入門的；基本的
+112/in the eyes/直視
+112/classical/古典的
+112/legal/合法的
+112/rude/粗魯的；沒禮貌的
+112/aim/目的；目標；瞄準
+112/burst/爆裂；爆發
+112/explore/探索；研究
+112/shine/閃耀；發光；擦亮
+112/agree/同意
+112/improve/改進；改善
+112/permit/允許；許可；許可證
+112/risk/冒險；風險
+112/scale/規模；比例(尺)
+112/wage/工資(時薪)
+112/attractive/吸引人的
+112/effective/有效的
+112/positive/正面的；積極的
+112/sensitive/敏感的
+112/proposal/提案；計畫；求婚
+112/funding/資金；基金
+112/appreciation/欣賞；感激；體會
+112/gratitude/感激
+112/resistance/反抗；抵抗
+112/sympathy/同情心
+112/seriously/嚴肅地；嚴重地
+112/badly/嚴重地；非常地
+112/cheaply/便宜地
+112/hardly/幾乎不
+112/shortly/不久
+112/spare/額外的；空閒的；備用的；省下；饒恕
+112/extra/額外的；附加的
+112/once in a long while/久久一次
+112/rental/出租的
+112/available/可租的；可使用的
+112/address/地址；演講；講話
+112/electric car/電動車
+112/pollution/污染
+112/charge/充電
+112/range/範圍
+112/I bet/我打賭；我敢說
+112/no way/不行；怎麼可能
+112/Don't mention it/不客氣
+112/competition/競賽；競爭
+112/talented/有才華的
+112/medal/獎牌
+112/support oneself through school/自己賺學費
+112/appointment/約時間
+112/schedule/日程；行程表
+112/ballet/芭蕾舞
+112/terrific/很棒
+112/genius/天才
+112/meet/遇見；認識；符合
+112/keep in touch/保持聯絡
+112/badminton/羽球
+112/gears and equipment/用具和裝備
+112/closet/櫃子；衣櫥
+112/garage/車庫；汽車修理廠
+112/coast/海岸
+112/ocean wildlife/海洋野生動物
+112/marvelous/絕妙的；棒極了
+112/view/景象；看法；看待
+112/whale watching/賞鯨
+112/spot/看見；斑點；地點
+112/make up/構成；組成；言歸於好
+112/major/主要的；主修
+112/industry/工業；產業
+112/county/縣
+112/operator/操作者；接線生
+112/expect/期待
+112/regulation/規則；規定
+112/govern/管制；管理；支配
+112/activity/活動
+112/accept/接受
+112/admit/承認；允許(進入)
+112/affect/影響
+112/approach/接近；方法
+112/principle/原則
+112/responsible/負責任的
+112/include/包括
+112/official/官方的；官員
+112/reduce/減少
+112/behavior/行為舉止
+112/take action/採取行動
+112/psychology/心理學
+112/theory/理論
+112/act/表現；行動；行為；法案
+112/situation/情況
+112/bystander/旁觀者
+112/effect/影響；效果
+112/Good Samaritan/好心人；見義勇為者
+112/refer to/參考；提及；指的是
+112/cross out/劃掉；刪除
+112/hand in/繳交
+112/whereas/然而；雖然
+112/lend a hand/伸出援手；幫忙
+112/step in/介入；插手
+112/jump in/馬上投入；打斷
+112/throw out/丟棄；趕走
+112/as a result/因此
+112/to sum up/總結；總而言之
+112/in the first place/首先
+112/on the other hand/另一方面
+112/in addition/此外
+112/pay attention to/專注於
+112/be based on/以...為基礎
+112/be more likely to/更有可能
+112/neither/兩者都不
+112/as well/也
+112/otherwise/否則
+112/graph/圖表
+112/information/資訊
+112/monthly expense/月開銷
+112/soft drink/無酒精飲料
+112/transportation/運輸；交通工具
+112/transport/運輸
+112/entertainment/娛樂
+112/snack/點心
+112/exactly/剛好；確切地
+112/temporarily/暫時地
+112/drug facts/藥物資訊
+112/relieve/緩解；使寬心
+112/symptom/症狀
+112/sneeze/噴嚏；打噴嚏
+112/runny nose/流鼻水
+112/itchy/癢的
+112/drowsy/昏昏欲睡的
+112/glaucoma/青光眼
+112/avoid/避免
+112/alcoholic/含酒精的；酗酒者
+112/vehicles/車輛
+112/pregnant/懷孕的
+112/breastfeeding/哺乳
+112/directions/說明書；方向
+112/be aware of/意識到；注意
+112/tablet/藥片；平板電腦
+112/scam/詐騙
+112/trick sb into/欺騙某人做某事
+112/detail/細節
+112/personal/個人的；私人的
+112/criminal/罪犯；涉及犯罪的
+112/pose as/假冒
+112/employer/雇主
+112/cheat/欺騙；作弊
+112/sum/總和
+112/effort/努力
+112/experience/經驗；經歷
+112/common/普遍的；常見的；共同的
+112/bank account/銀行帳戶
+112/pass on payment/轉移款項
+112/fee/費用
+112/transfer/轉帳；轉移
+112/deposit/存放；存款；訂金
+112/instance/例子
+112/set up/安排；創立
+112/interview/面試；訪問
+112/provide/提供
+112/scan/瀏覽；掃描
+112/identity card/身分證件
+112/product/產品
+112/beware/當心；提防
+112/watch out/小心；注意
+112/description/描述
+112/require/需要；需求
+112/request/要求；請求
+112/commit/犯罪；承諾
+112/job offer/工作機會
+112/too good to be true/太好以至於不是真的
+112/background check/背景調查
+112/claim/宣稱；聲稱；主張；索取
+112/feel free to/隨時都可以
+112/contact/聯繫；接觸
+112/staff/全體員工
+112/applicant/申請人；應徵者
+112/notice/佈告；通知；注意到
+112/item/物品；項目
+112/technology/科技
+112/continuously/持續地
+112/sports industry/運動產業
+112/electronic device/電子裝置
+112/sensor/感應器
+112/detect/偵查；檢測
+112/instant/即時的
+112/movement/動作；移動；運動
+112/athlete/運動員
+112/live tracking/即時追蹤
+112/train/訓練；火車
+112/perfect/使完美；完美的
+112/prevent/預防；防止
+112/injury/(受)傷
+112/measure/測量；尺寸；方法；措施
+112/track/追蹤；小徑；軌道
+112/in real time/即時
+112/temperature/氣溫；體溫；溫度
+112/heart rate/心律
+112/sweat/汗；流汗
+112/performance/表現；表演
+112/determine/下決心；決定
+112/aspect/層面；方面
+112/data/數據
+112/stretch/伸展；拉長；一片(草地)
+112/session/一段時間
+112/record/紀錄；錄音/影
+112/judge/評審；法官；裁判；評估；判斷
+112/exact/確切的；精確的
+112/position/精確的位置；職位
+112/distance/距離
+112/speed/速度；加速
+112/dive angle/潛水角度
+112/observe/觀察；遵守
+112/observation/觀察
+112/assist/幫助
+112/keep watch on/監視；管控
+112/diet/飲食；節食
+112/energy/活力；能量
+112/fatigue/疲勞
+112/allow/允許
+112/self-created/自我造成的
+112/get the most out of/充分發揮；充分利用
+112/undoubtedly/無疑地
+112/potential/潛力；潛能；可能性；可能的
+112/at once/馬上；立刻
+112/benefit/好處；利益；獲得好處
+112/do the laundry/洗衣服
+112/separate/分離；分開；各自的
+112/inflation rate/通貨膨脹率
+112/form/形成；形狀；表格
+112/deal with/處理；對付
+112/club/社團；俱樂部
+112/encourage/鼓勵
+112/member/成員；會員
+112/recycle/回收
+112/plastic bag/塑膠袋
 
