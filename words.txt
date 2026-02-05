@@ -193,3 +193,228 @@
 114/unknown/不明的
 114/confirm/確認
 114/confirmation/確認
+113/common/常見的 普通的
+113/general/全體的 普遍的
+113/regular/頻繁的 規律的
+113/special/特別的
+113/bend/彎曲 彎腰
+113/focus/焦點 聚焦
+113/panic/恐慌 驚慌
+113/wonder/疑惑 想知道
+113/gap/缺口 縫隙 差距
+113/nap/打盹 兒午睡
+113/briefly/短暫地 簡短地
+113/fluently/流利地 流暢地
+113/gently/溫柔地 溫和地
+113/roughly/大致地 近似地
+113/dialogue/對話 交談
+113/conflict/衝突 分歧
+113/personality/人格 品格
+113/democratic/民主的
+113/obedient/服從的 順從的
+113/stubborn/頑固的 執拗的
+113/persuade/勸服 說服
+113/medal/獎章 紀念章
+113/admire/欽佩 欣賞
+113/frighten/使驚恐
+113/impress/給深印象 使感動
+113/suspect/懷疑 嫌疑犯
+113/violin/小提琴
+113/skillfully/巧妙地 精巧地
+113/casually/偶然地 無意地
+113/cruelly/殘酷地 殘暴地
+113/smoothly/平滑地 流暢地
+113/strictly/嚴厲地 嚴格地
+113/conquer/攻克 戰勝
+113/beat/打擊 敲 衝擊
+113/hunt/追獵 獵取
+113/recover/重新獲得 恢復
+113/crosswalk/行人穿越道 斑馬線
+113/allow/允許 准許
+113/illegal/不合法的 非法的
+113/national/全國性的 民族的
+113/political/政治的 政策的
+113/unusual/不平常的 稀有的
+113/oyster/蚵仔煎
+113/chopsticks/筷子
+113/instant/泡麵
+113/thin/薄的 瘦的
+113/chubby/圓潤胖胖的
+113/glad/高興的 快活的
+113/unfair/不公平的
+113/gather/收集 聚集
+113/theater/劇場 電影院
+113/apply/申請 應徵
+113/position/職位 位置
+113/leadership/領導 領導者的地位
+113/current/目前的 現行的
+113/colleague/同事
+113/project/方案 計畫
+113/create/創造 創作
+113/terrible/可怕的 嚇人的
+113/handle/觸 摸 處理
+113/cancel/刪去 劃掉
+113/audio/聲音的 錄音的
+113/equipment/設備 器材
+113/rainforest/熱帶雨林
+113/donate/捐獻 捐贈
+113/affect/影響
+113/click/發出卡嗒聲
+113/link/連結 關係
+113/confirm/確認 確定
+113/policy/政策
+113/reservation/預約 預訂
+113/absolutely/完全地 絕對地
+113/tradition/傳統
+113/season/季 四季
+113/regard/認為
+113/heaven/天堂
+113/festival/節慶
+113/period/期間
+113/careful/小心謹慎的
+113/tourist/觀光客
+113/visit/拜訪
+113/respect/尊重
+113/resident/居民
+113/remind/提醒
+113/manner/禮節 方法
+113/rude/粗魯的
+113/behavior/行為
+113/consideration/考慮
+113/backyard/後院
+113/remember/記得
+113/disturb/打擾
+113/normal/正常的
+113/dimensional/立體的
+113/solid/固體的 固體
+113/object/物件
+113/process/過程 步驟
+113/layer/層
+113/material/材料
+113/complete/完成 徹底的
+113/simple/簡單的
+113/plastic/塑膠 塑膠製的
+113/technology/技術
+113/exact/確切的
+113/construction/建造 建設
+113/require/需要 要求
+113/resource/資源
+113/waste/廢棄物 浪費
+113/traditional/傳統的
+113/improve/改善 改進
+113/quality/品質
+113/application/應用
+113/generative/有生產能力的
+113/technique/技術 技能
+113/structure/架構
+113/reduce/減少
+113/unless/除非
+113/increase/增加
+113/timetable/時間表
+113/operation/運作
+113/arrive/抵達
+113/choice/選擇
+113/motivate/激勵
+113/university/大學
+113/below/低於
+113/practice/練習 習俗
+113/shuttlecock/羽毛球
+113/individual/個人 個體
+113/rugby/橄欖球
+113/oval/橢圓的
+113/particular/特定的
+113/weightlifting/舉重
+113/lift/舉起
+113/interested/感興趣的
+113/compare/比較
+113/information/資訊
+113/cruise/航行旅遊
+113/universe/宇宙
+113/facility/設施
+113/fitness/健身
+113/service/服務
+113/shuttle/接駁車
+113/rental/租賃的
+113/distance/距離
+113/rate/價格 比率
+113/provide/提供
+113/inspiration/啟發 激勵
+113/encourage/鼓勵
+113/seize/把握
+113/opportunity/機會
+113/present/呈現 帶來
+113/meanwhile/同時
+113/positive/正面的 積極的
+113/attitude/態度
+113/challenge/挑戰
+113/decade/十年
+113/discourage/使挫折
+113/failure/失敗
+113/rapid/快速的 急速的
+113/industry/產業
+113/realize/發覺 實踐
+113/mistake/錯誤
+113/humbly/謙虛地
+113/major/主要的
+113/customer/客戶
+113/support/支持
+113/invent/發明
+113/future/將來的 未來
+113/honestly/誠實地
+113/despite/儘管
+113/investment/投資
+113/improvement/改進 改善
+113/experience/經驗 經歷
+113/suffer/掙扎 受苦
+113/achieve/達成 實踐
+113/vision/願景 遠見
+113/continue/持續
+113/effort/努力
+113/earn/賺取
+113/engineering/工程學
+113/degree/學位 學分 程度
+113/advise/建議
+113/purpose/目的
+113/obtain/獲得
+113/develop/發展
+113/satellite/人造衛星 衛星
+113/successfully/成功地
+113/instrument/儀器 樂器
+113/predict/預測
+113/accurately/準確地
+113/ancient/古老的
+113/command/控管 命令
+113/gather/蒐集 集合
+113/height/高度
+113/signal/信號
+113/reflect/反射 反映
+113/surface/表面
+113/receive/收到 接待
+113/indicate/表示 指出
+113/valuable/有價值的
+113/movement/移動
+113/observe/觀察 遵守
+113/fruitful/有成果的
+113/cooperation/合作
+113/component/零件 組成
+113/manufacturer/製造商
+113/participate/參與
+113/expect/預期
+113/disaster/災難
+113/prevention/預防
+113/forecasting/預報
+113/description/描述 敘述
+113/introduction/介紹
+113/infer/推論
+113/damage/損害
+113/cause/造成 原因
+113/measure/測量
+113/prefer/寧可 寧願
+113/cash/現金 現款
+113/electronic/電子的
+113/wallet/皮夾 皮包
+113/solve/解決 解答
+113/pollution/汙染
+113/problem/問題 習題
+113/expert/專家
+113/humid/潮濕的
