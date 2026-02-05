@@ -7,55 +7,50 @@ let sessionWrongList = [];
 let isAnswering = false; 
 
 // ===== 0. 從 GitHub 讀取外部單字檔 =====
+// ===== 2. 資料讀取邏輯 (讀取 words.txt - 強制更新版) =====
+
 async function loadExternalWords() {
     try {
-        // 這裡會抓取同一個資料夾下的 words.txt
-        const response = await fetch('words.txt');
-        const text = await response.text();
+        // 在檔名後加上時間戳記，防止瀏覽器讀取舊快取
+        const cacheBuster = new Date().getTime();
+        const response = await fetch(`words.txt?v=${cacheBuster}`); 
         
-        // 將文字解析成物件陣列
+        if (!response.ok) throw new Error("找不到 words.txt");
+        
+        const text = await response.text();
         const parsedWords = text.trim().split('\n').map(line => {
-            const [year, en, zh] = line.split('/');
-            return (year && en && zh) ? { 
-                year: year.trim(), 
-                en: en.trim(), 
-                zh: zh.trim(), 
-                wrongCount: 0 
-            } : null;
+            const parts = line.split('/');
+            if (parts.length === 3) {
+                return { 
+                    year: parts[0].trim(), 
+                    en: parts[1].trim(), 
+                    zh: parts[2].trim(), 
+                    wrongCount: 0 
+                };
+            }
+            return null;
         }).filter(v => v);
 
         if (parsedWords.length > 0) {
-            // 抓取成功後，存入 localStorage 並刷新頁面單字
+            // 每次成功抓取都覆蓋 LocalStorage，確保同步
             saveWords(parsedWords);
-            console.log("單字庫已從 words.txt 更新！");
+            console.log("成功從 words.txt 載入最新單字庫！數量：" + parsedWords.length);
             return parsedWords;
         }
     } catch (error) {
-        console.error("讀取 words.txt 失敗:", error);
+        console.error("載入失敗，改用本地紀錄:", error);
     }
-    return [];
+    return getWords(); // 失敗時抓舊的
 }
 
-// ===== 2. 修改後的資料啟動邏輯 =====
-function getWords() {
-    const data = localStorage.getItem("customVocab");
-    return data ? JSON.parse(data) : [];
-}
-
-// 頁面載入時檢查是否需要從 txt 更新
-// 修改這一段邏輯，讓它每次開啟都先檢查伺服器
+// 修改初始化邏輯：每次重新整理都強行抓一次最新的 txt
 window.addEventListener('DOMContentLoaded', async () => {
-    // 每次開啟網頁都重新抓取 words.txt 以確保同步
-    const newWords = await loadExternalWords();
+    console.log("正在檢查伺服器單字庫...");
+    await loadExternalWords();
     
-    if (newWords && newWords.length > 0) {
-        saveWords(newWords); // 覆蓋舊有的 LocalStorage 紀錄
-        console.log("單字庫已從 words.txt 成功同步！");
-        
-        // 如果目前正在單字總覽頁，強制更新畫面
-        if (!document.getElementById('vocab').classList.contains('hidden')) {
-            renderVocab();
-        }
+    // 如果目前人在單字頁，抓完立刻重新顯示
+    if (!document.getElementById('vocab').classList.contains('hidden')) {
+        renderVocab();
     }
 });
 
@@ -433,4 +428,5 @@ function renderHistory() {
 // 初始化歷史紀錄渲染
 
 window.onload = renderHistory;
+
 
