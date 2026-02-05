@@ -663,4 +663,570 @@
 112/member/成員；會員
 112/recycle/回收
 112/plastic bag/塑膠袋
-
+111/traffic/交通
+111/avoid/避免
+111/invite/邀請
+111/be full of/充滿了
+111/energy/能源；能量
+111/identity/身分
+111/identification/身分(證明)
+111/identify/辨識身分
+111/weight/重量
+111/recently/最近地
+111/loose/鬆的
+111/ripe/成熟的
+111/swift/快速的
+111/tight/緊的
+111/totally/完全地
+111/accept/接受
+111/acceptance/接受
+111/nod/點頭
+111/agreement/同意；合約
+111/deny/否認
+111/denial/否認
+111/indicate/指出
+111/beard/鬍子
+111/helmet/頭盔；安全帽
+111/necklace/項鍊
+111/dye/染色；染髮
+111/purple/紫色的
+111/ancient/古代的
+111/historical/歷史的
+111/natural/自然的；天然的
+111/opposite/相反的；對手
+111/ahead/往前地；事先地
+111/reservation/預約
+111/reserve/預約
+111/ease/緩和
+111/pressure/壓力
+111/presentation/報告
+111/present/報告；提交；呈現
+111/publication/宣傳
+111/relaxation/放鬆
+111/relax/放鬆
+111/reputation/名聲
+111/pursue/追求；追逐
+111/robber/強盜
+111/robbery/強盜案
+111/beg/乞討；乞求
+111/beggar/乞丐
+111/chase/追逐
+111/praise/讚美
+111/treat/對待；治療；請客
+111/treatment/對待；治療
+111/record/紀錄
+111/extensively/廣泛地
+111/mention/提及
+111/eventually/最終
+111/marginally/邊緣地
+111/occasionally/偶爾地
+111/thoroughly/徹底地
+111/snack/點心
+111/I'm full/我吃飽了
+111/exhibition/展覽
+111/booth/亭子
+111/virtual reality(VR)/虛擬實境
+111/setup/設置
+111/headset/耳機
+111/actually/事實上；實際上
+111/jog/慢跑
+111/track/跑道
+111/be tired of/厭倦
+111/terrific/很棒的
+111/animated movie/動畫電影
+111/animation/動畫
+111/not at all/一點也不
+111/adult/成人
+111/pick sb. up/接送某人
+111/loan/貸款
+111/interest rate/利率
+111/offer/提供
+111/manager/經理
+111/department/部門；科系
+111/apartment/公寓
+111/choice/選擇
+111/choose/選擇
+111/vacation/假期
+111/lazy/懶惰的
+111/absolutely/完全地；當然
+111/update/更新
+111/book/預訂
+111/depend on/取決於；依賴
+111/educator/教育家
+111/society/社會
+111/social/社會的；社交的
+111/skill/技能；技巧
+111/essential/必要的
+111/elementary/基礎的
+111/negative/負面的
+111/mental/心智的
+111/development/發展
+111/alone/單獨的
+111/share/分享
+111/interact/互動
+111/furthermore/此外
+111/imagination/想像力
+111/imaginative/想像力豐富的
+111/imaginary/虛構的
+111/imagine/想像
+111/screen/螢幕
+111/plenty of/大量的
+111/government/政府
+111/project/專案；計畫
+111/provide/提供
+111/fund/資金
+111/foreign/外國的
+111/cultural/文化的
+111/culture/文化
+111/background/背景
+111/aim/瞄準；目標
+111/connect/連結
+111/connection/連結
+111/locate/位於；位置在...
+111/location/位置
+111/participant/參加者
+111/participate/參加
+111/participation/參加
+111/immigrant/移民
+111/purpose/目的
+111/organize/組織；安排；籌畫
+111/Vietnam/越南
+111/investment/投資
+111/invest/投資
+111/employment/雇用
+111/employ/雇用
+111/employee/雇員；員工
+111/hire/雇用
+111/adapt/適應
+111/adopt/領養；採取
+111/origin/來/起源
+111/original/原創的；原本的
+111/opportunity/機會
+111/quarantine/隔離；檢疫
+111/graph/圖形；圖表
+111/line graph/線形圖
+111/pie chart/圓餅圖
+111/bar chart/長條圖；柱狀圖
+111/occupy/佔據/用
+111/vacant/空缺的
+111/vacancy/空缺；職缺
+111/competition/競賽；競爭
+111/entry/參加；入口
+111/guideline/指導方針
+111/allow/允許；讓
+111/submit/繳交
+111/production/製作；生產
+111/length/長度
+111/material/材料；物質
+111/permit/允許
+111/permission/允許
+111/content/內容
+111/address/處理；對/應付；地址
+111/theme/主題
+111/suitable/適合的
+111/audience/觀眾
+111/judge/判斷；裁決；法官；評審
+111/criteria/標準；準則
+111/creativity/創意
+111/creative/有創意的
+111/quality/品質
+111/prize/獎品；獎金；重視；珍惜
+111/result/結果
+111/announce/宣佈
+111/announcement/宣佈
+111/anniversary/週年紀念
+111/celebration/慶祝
+111/cash/現金
+111/award/(頒發)獎金/品
+111/former/前任的
+111/volunteer/志工；自願的
+111/voluntary/自願的
+111/trip/旅行
+111/sea level/海平面
+111/population/人口
+111/mysterious/神秘的
+111/mystery/神秘(的事物)
+111/host family/接待家庭
+111/exhausted/筋疲力竭的
+111/decision/決定
+111/decisive/果決的
+111/get used to/習慣
+111/museum/博物館
+111/display/展示(品)；陳列(品)；顯露
+111/leave for/前往
+111/BTW/順帶提起
+111/take care/保重
+111/take care of/照顧
+111/infer/推論
+111/inference/推論
+111/carbon dioxide/二氧化碳
+111/increase/增加
+111/gas/氣體；瓦斯
+111/atmosphere/氣氛；大氣層
+111/capture/捕捉；獲取
+111/usage/使用；用法
+111/storage/儲存
+111/store/儲存
+111/technology/科技
+111/factory/工廠
+111/power plant/電廠
+111/global warming/全球暖化
+111/process/過程；加工處理
+111/trap/困住；陷阱
+111/emission/排放
+111/chimney/煙囪
+111/filter/過濾器；濾紙/鏡；過濾；篩選
+111/pipe/用管子輸送；(輸送)管；煙斗
+111/crisis/危機
+111/benefit/對...有幫助；利益；好處
+111/environment/環境
+111/straightforward/坦率的；直截了當地
+111/issue/議題；發行
+111/maintain/維護；維持；維修
+111/operate/運/操作；營運；動手術
+111/operation/運/操作；營運；手術
+111/forerunner/先驅；前兆
+111/gain/獲得
+111/momentum/動力；氣勢
+111/article/文章；[文法]冠詞
+111/inform/通知
+111/advise/建議；規勸
+111/advice/建議
+111/impact/影響
+111/site/地點
+111/heat/加熱
+111/conduct/進行；實施；引導；行為；表現
+111/research/研究
+111/fatal/致命的
+111/disease/疾病
+111/scientist/科學家
+111/spread/擴散；蔓延；擴散；展/鋪開；塗
+110/shy/害羞的
+110/had a hard time (in) V-ing/做...有困難
+110/bravely/勇敢地
+110/softly/輕柔地
+110/terribly/非常
+110/sincere/誠摯的
+110/apology/道歉
+110/accept/接受
+110/ignore/忽略
+110/propose/提議
+110/refuse/拒絕 reject, turn down
+110/customer/顧客
+110/at least/至少
+110/delicious/美味的
+110/former/先前的
+110/negative/負面的
+110/regular/經常的
+110/potato chips/洋芋片
+110/thirsty/口渴的
+110/a large amount of + 不可數名詞/大量的
+110/salt/鹽
+110/contain/包含
+110/while/然而
+110/chilly/寒冷的
+110/previous/以前的
+110/tropical/熱帶的
+110/visible/可見的
+110/spread/散佈
+110/virus/病毒
+110/bacteria/細菌
+110/fever/發燒
+110/moisture/濕氣
+110/sweat/汗水
+110/admission/准許進入
+110/interview/面試
+110/explain/解釋
+110/enter/進入
+110/university/大學
+110/applicant/申請者
+110/associate/同事，同伴；把...聯想在一起
+110/receptionist/接待員
+110/relative/親屬
+110/pet/寵物
+110/such as/例如
+110/human/人類
+110/favorite/最喜愛的
+110/companion/同伴
+110/director/導演
+110/partner/同伴
+110/forecast/預報
+110/temperature/溫度
+110/dip/下降，浸
+110/degree/度
+110/dim/變暗
+110/drop/下降，掉，落
+110/fail/失敗
+110/leak/洩漏
+110/prefer/偏好
+110/primarily/主要地
+110/buffalo/水牛
+110/live on/靠...維生
+110/barely/幾乎不
+110/frequently/頻繁地
+110/mainly/主要地
+110/scarcely/幾乎不
+110/magnificent/傑出的，壯麗的
+110/scientist/科學家
+110/prize/獎
+110/brilliant/傑出的，聰穎的 bright
+110/believable/可信的
+110/critical/挑剔的，關鍵的
+110/commercial/商業的
+110/abroad/出國地
+110/native/當地的
+110/No problem at all./完全沒有問題。
+110/probably/大概可能是
+110/alone/獨自的(地)
+110/lotus/蓮花
+110/order/點餐
+110/take-out/外帶
+110/sour/酸的
+110/sweet and sour/糖醋(的)
+110/pork/豬肉
+110/barbecue./烤
+110/Here you are./這給你。
+110/run out of N/用完、賣光
+110/place the order/下訂單
+110/a good deal/好的交易，划算
+110/be made of N/以...製成
+110/on sale/特價
+110/drug store/藥妝店
+110/around the corner/在附近；近了
+110/What's wrong?/怎麼了？
+110/nearby/在附近
+110/rent/租
+110/condition/情況
+110/rate/租金費用
+110/terrific/非常好的
+110/dessert/甜點
+110/as well/也
+110/go well with/和...很相配
+110/work for/在(為)...工作
+110/representative/代表
+110/international/國際的
+110/local/當地的
+110/compute/計算
+110/jewelry/珠寶
+110/designer/設計師
+110/Congratulations!/恭喜
+110/It's my treat./我請客。
+110/celebrate/慶祝
+110/make it/成功；辦到
+110/advertising/廣告業
+110/overworked/工作過度
+110/once in a while/偶爾
+110/as long as/只要
+110/score/分數
+110/stay up Ving/熬夜=sit up Ving
+110/custom/習俗
+110/tip/秘訣，小費
+110/upset/(惹)生氣；生氣的，不舒服的
+110/polite/有禮貌的
+110/impolite/不禮貌的
+110/host/主人
+110/while/當
+110/transport/交通工具；運輸，運送
+110/passenger/乘客
+110/rude/很失禮的
+110/expect/預期
+110/mistakenly/不小心地
+110/consider/認為
+110/at a time/一次，每次
+110/for all time/總是
+110/in time/及時
+110/on time/準時
+110/consequently/因此
+110/similarly/同樣地
+110/by far/顯然地
+110/in contrast/相較之下
+110/beyond/超出
+110/eastern/東部的
+110/occur/發生
+110/recently/最近
+110/complete/完成
+110/fairly/相當，非常
+110/track/追蹤
+110/route/路線
+110/benefit/好處
+110/research/研究
+110/lower/減少，減低
+110/transportation/交通運輸
+110/income/收入
+110/besides/此外
+110/risk/冒險
+110/estimate/估計
+110/suggest/暗示，意味，建議
+110/instead/相反地
+110/vehicle/車輛，車種
+110/technology/科技
+110/currently/現今
+110/improve/改善
+110/among/在....之中
+110/traditional/傳統的
+110/arrive/到來
+110/daily life/日常生活
+110/adjust/調整
+110/succeed/成功
+110/article/文章
+110/set up/創立
+110/replace/取代
+110/develop/發展
+110/necessary/必要的
+110/balance/均衡
+110/diet/飲食
+110/sufficient/足夠的
+110/avoid/避免
+110/pressure/壓力
+110/economy/經濟
+110/government/政府
+110/due to N/由於
+110/predict/預測
+110/decline/衰退
+110/pandemic/流行病
+110/cable/電纜
+110/system/系統
+110/detect/偵測
+110/detection/偵測
+110/tsunami/海嘯
+110/strike-struck-struck/襲擊=hit
+110/purpose/目的=goal, aim
+110/reduce/減少
+110/injury/受傷
+110/stretch/延伸
+110/entire/全部的=whole
+110/length/長度
+110/lie-lay-lain/躺
+110/warn/警告
+110/die/死
+110/death/死
+110/dead/死的
+110/deadly/致命的=fatal
+110/unless/除非
+110/along/沿著
+110/except/除了
+110/notice/公告
+110/below/以下
+110/guideline/指南
+110/tourist/遊客
+110/trace/痕跡
+110/principle/準則
+110/ahead/提前
+110/regulation/法規=rule
+110/respect/尊重
+110/wildlife/野生動物
+110/approach/靠近/方法(=reach)
+110/admire/欣賞，仰慕，佩服
+110/cultural/文化的
+110/historic/歷史的
+110/object/物件/反對
+110/at a distance/遠距離
+110/path/路線
+110/shell/貝殼
+110/wood/木頭
+110/seed/種子
+110/waste/廢棄物
+110/recycling/回收
+110/unsure/不確定的
+110/considerate/體貼的=thoughtful
+110/minimum/最低限度
+110/encourage/鼓勵
+110/in order to V/為了
+110/reach/接觸
+110/allow/允許
+110/express/發表
+110/view/看法
+110/as much as possible/盡量，盡可能
+110/advertisements/廣告
+110/classify/分類=sort
+110/section/欄
+110/website/網站
+110/be based on N/根據
+110/auto mechanic/汽車技工
+110/dealership/經銷商
+110/opening/職缺
+110/certified/合格的
+110/ability/能力
+110/range/範圍
+110/per/每一
+110/benefit/福利，好處
+110/include/包括
+110/uniform/制服
+110/hire/雇用=employ
+110/dependable/可靠的
+110/mature/成熟的
+110/capable/有能力的=able
+110/standard/標準；標準的
+110/breed-bred-bred/繁殖，飼養
+110/general/一般的
+110/maintenance/維護
+110/housing/住宿
+110/provide/提供
+110/real estate/房地產
+110/No experience needed./不需經驗。
+110/offer/提供
+110/training/訓練
+110/employee/員工
+110/in person/親自
+110/main/主要的
+110/royal/皇家的
+110/delivery/遞送
+110/wheel/輪子
+110/license/執照
+110/graduate/畢業
+110/apply/申請
+110/resume/履歷
+110/award/獎
+110/effort/努力
+110/prevent/防止+from
+110/weapon/武器
+110/focus/放重點在+on
+110/security/安全
+110/issue/議題
+110/organization/組織
+110/ship/運送
+110/wheat/小麥
+110/victim/受害者
+110/disaster/災難
+110/cover/涵蓋
+110/hand in hand/手牽手，相關的 (= connected)
+110/conflict/衝突
+110/successfully/成功地
+110/resolve/解決
+110/situation/局勢
+110/central/中央的
+110/several/好幾個
+110/village/村莊
+110/border/邊境
+110/quarrel/爭吵
+110/resource/資源
+110/rebuild/重建
+110/supply/供應
+110/across/跨過
+110/construction/建造
+110/be close to N/接近
+110/starve/挨餓
+110/rival/對立的；對手
+110/fear/恐懼
+110/population/人口
+110/manage to V/設法
+110/flour/麵粉
+110/in need/有需要的 (人)
+110/receive/獲得
+110/assistance/接助
+110/draw/吸引
+110/persuade/說服=convince
+110/aid/援助
+110/paragraph/段落
+110/available/可獲得的
+110/connect/相關，連結
+110/according to N/根據
+110/passage/短文，通道
+110/statement/論述
+110/through/透過
+110/cooperation/合作
+110/donate/捐贈
+110/imagine/想像
+110/location/地點
+110/destination/目的地
+110/self-driving/自動駕駛
