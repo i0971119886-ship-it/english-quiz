@@ -1230,3 +1230,296 @@
 110/location/地點
 110/destination/目的地
 110/self-driving/自動駕駛
+109/bright/刺眼的，明亮的
+109/look on the bright side/往好的一面看
+109/brighten/打亮
+109/photography/攝影，攝影學
+109/photographer/攝影師
+109/photograph/相片
+109/annoy/困擾 
+109/annoyed/感到煩惱的
+109/annoying/令人煩惱的
+109/gossip (about)/八卦，留言
+109/private/私人的 
+109/fearful/恐懼的
+109/fear/恐懼
+109/for fear that/of 以免
+109/embarrass/使尷尬
+109/embarrassed/感到尷尬的
+109/embarrassing/令人尷尬的
+109/enable/使能夠
+109/able/能 
+109/effectively/有效率地
+109/effect/效果，影響
+109/affect/影響
+109/reduce/減少 
+109/reduction/減少 
+109/relatively/相對地
+109/reluctantly/不情願地
+109/region/區域
+109/regionally/區域(性)地
+109/regional/區域(性)的
+109/respectfully/尊敬地
+109/respectful/尊敬的
+109/respect/尊敬
+109/topic/主題
+109/discount/折扣
+109/compose/創作
+109/composition/作品(作文或樂曲)
+109/lighten/變淺，變淡
+109/light/淺(淡)色的；輕的
+109/monitor/監控，監督
+109/reject/拒絕 
+109/essential/基本的，必要的，重要的
+109/expressive/富於表情的
+109/express/表達 
+109/expression/表達
+109/protective/受保護的
+109/protect/保護
+109/protection/保護
+109/reasonable/合理的
+109/reason/理由
+109/identical/一致的，相似的
+109/identifiable/有辨識度的
+109/be good at/擅長於
+109/dramatic/戲劇(性)的
+109/drama/戲劇
+109/acting/表演
+109/contact/聯絡
+109/lately/最近地
+109/recently, of late/最近地
+109/nearly/將近,幾乎
+109/shortly/不久
+109/regard/關心 
+109/regard/看待 
+109/fortune/命運
+109/fortune/財富
+109/fortunate/幸運的 
+109/silence/寧靜
+109/silent/安靜的
+109/temper/脾氣
+109/medical/醫學的
+109/medicine/醫學，(醫)藥
+109/indicate/指出 
+109/exchange/(交)換
+109/obstacle/障礙
+109/similarity/相似點，相似處
+109/similar/相似的
+109/association/關係，關聯
+109/associate/與...有關 
+109/stress/壓力
+109/stressful/令人有壓力的 
+109/stressed/感到有壓力的
+109/declare/宣布 
+109/declaration/聲明，宣言 
+109/discover/發現
+109/discovery/發現
+109/predict/預測
+109/prediction/預測
+109/imagine/想像
+109/imagination/想像(力)
+109/imaginary/假想的，虛構的
+109/imaginative/有想像力的
+109/the city hall/市政府，市府
+109/across from/對面
+109/far from/遠離
+109/not at all/一點也不
+109/Internet cafe/網咖 
+109/do a search/搜尋
+109/drawer/抽屜
+109/draw/提款
+109/draw/畫圖
+109/make up one's mind/下定決心
+109/pretty much/差不多
+109/I mean it./我是認真的。
+109/I didn't mean it./我不是故意的。
+109/make sense/有道理
+109/be reasonable/有道理
+109/You can say that again./你說得沒錯。
+109/for a reason/有理由和原因的
+109/How about...?/那...怎麼樣?
+109/What about...?/那如何?(表提議)
+109/delay/延遲，拖延
+109/delivery/運送
+109/deliver/傳遞，運送
+109/order/訂單
+109/order/訂購，點餐
+109/hard to follow/難以理解
+109/follow sb./(在網路上)追蹤某人
+109/It's very kind of you./你人真好。
+109/service line/客服專線
+109/ever since/從...以來
+109/hardworking/努力的
+109/impatient/沒耐心的
+109/patient/有耐心的
+109/patience/耐心
+109/educational background/教育背景
+109/strong point/優點 
+109/weak point/缺點 
+109/go crazy/發瘋 
+109/go,be crazy about/著迷，為...瘋狂
+109/You've got to be kidding (me)./你一定是開玩笑。
+109/take up Ving/喜歡上...
+109/dead/絕對地，完全地
+109/skydiving/跳傘
+109/go skydiving/跳傘
+109/check out/看看，了解
+109/Not really./不完全是。
+109/stadium/體育館
+109/seating/座位
+109/floor/前排座位
+109/lower level/低看台座位
+109/upper level/高看台座位
+109/fee/費用
+109/rainforest/雨林
+109/ecosystem/生態系統
+109/surface/表面
+109/provide/提供 
+109/oxygen/氧氣
+109/treat/治療，對待，請客
+109/treatment/治療
+109/item/項目
+109/heart disease/心臟疾病
+109/as well/也 too
+109/at a ~ pace/以~的速度或節奏
+109/alarm/警示 
+109/alarming/令人驚恐或擔憂的
+109/alarmingly/令人驚恐或擔憂地
+109/due to/因為  
+109/decrease/減少 
+109/species/物種
+109/call off/取消 
+109/look into/調查 
+109/make up/組成
+109/turn down/拒絕
+109/manufacture/製造 
+109/manufacturer/製造商
+109/to conclude/總結來說
+109/conclusion/結論
+109/unfortunately/不幸地
+109/A result from B/A 起因於 B
+109/B result in A/B 導致 A
+109/journey/旅程 
+109/come close to N,Ving/接近
+109/yet/然而，儘管
+109/reach/達成，到達
+109/explore/探索
+109/exploration/探索
+109/sail/航行
+109/sailor/水手
+109/distance/距離
+109/distant/遙遠的
+109/far away (adv)/遙遠的
+109/open canoe/無遮蔽的獨木舟
+109/manage to V/設法
+109/occupy/佔據
+109/be occupied/使用中的
+109/fall off/跌落
+109/edge/邊緣
+109/flat/平坦的
+109/original/原始的，原本的
+109/origin/起源
+109/treasure/珍視
+109/vast/廣大的，廣闊的
+109/vision/視野
+109/security/安全 
+109/secure/安全的 
+109/simply/僅僅，只有
+109/adventure/冒險
+109/compared to/相較於
+109/rather than/而非 
+109/despite N,Ving/儘管
+109/as usual/如往常
+109/instead/反之
+109/moreover/此外
+109/drive sb. to do sth./驅使某人去做某事
+109/portion/(一)份
+109/milkfish/虱目魚
+109/oyster omelet/蚵仔煎
+109/Taiwanese meatball/肉圓
+109/coffin bread/棺材板
+109/must-try/必嘗試之事物
+109/rule/規則
+109/rule/統治
+109/ruler/統治者，尺
+109/overcome/克服
+109/crop/(農)作物
+109/tropical/熱帶的
+109/technique/技術
+109/better-quality/更好品質的
+109/promote/促銷，推動，提升
+109/promotion/(職位的)晉升
+109/industry/產業，工業
+109/industrial/產業的，工業的
+109/flavor/口味
+109/pepper/胡椒(粉)
+109/emerging/興起的
+109/emerge/出現 
+109/go on/持續
+109/rise/興起
+109/rise/上升
+109/numerous/許多的
+109/honor/榮譽
+109/host/主辦，主持
+109/host/主人，主持人
+109/compete/競爭
+109/competition/競爭
+109/competitor/競爭者
+109/competitive/有競爭性的
+109/go for/選擇 
+109/come up with/想出
+109/a variety of/各式各樣的
+109/single/一個 
+109/all kinds of/各式各樣的
+109/domestic/國內的
+109/foreign/國外的
+109/appreciate/欣賞，過賞，感謝
+109/appreciation/感謝
+109/take off/(飛機)起飛
+109/take off/請假
+109/take off/脫掉(衣物)
+109/target/目標
+109/be eager to V/渴望
+109/delicate/精緻的
+109/contribution/貢獻
+109/contribute A to B/將 A 貢獻給 B
+109/remove/移除
+109/coronavirus/冠狀病毒
+109/the Coronavirus Disease 2019/2019 新冠肺炎
+109/spread/擴散，傳播
+109/spread/擴散，展/鋪開，塗
+109/social distancing/社交距離
+109/prevent/阻止，預防 
+109/prevent A from B/阻止預防 A 發生 B 事
+109/prevention/預防
+109/infection/感染
+109/infect/感染
+109/avoid N,Ving/避免
+109/elsewhere/其他地方
+109/entertainment/娛樂
+109/entertain/娛樂
+109/significantly/大幅地，顯著地
+109/mix in/混合，雜處
+109/worsen/變糟，惡化
+109/one after another/一個接一個
+109/attend/參與 
+109/lower/降低
+109/low/低的
+109/risk/冒著...的風險
+109/risk/風險
+109/employee/員工
+109/employ/雇用，採用
+109/employer/雇主
+109/workplace/職場
+109/generally/通常 
+109/flexible/可變通的
+109/paid sick leave/有薪病假
+109/unpaid leave/無薪假
+109/income/收入
+109/fall ill/生病
+109/apart/分開的
+109/sense/感覺
+109/connected/有聯繫的；連結的
+109/togetherness/團結一致
+109/together/一起，一同
+109/crisis/危機
